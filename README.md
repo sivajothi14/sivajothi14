@@ -50,17 +50,12 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Sivajothi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivajothi14\&show_icons=true\&theme=dark\&hide=issues,contribs)
 
 ---
 
 ---
 
-### 📈 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivajothi14\&bg_color=000000\&color=ffffff\&line=51f565\&point=ffffff\&area=true\&hide_border=true)](https://github.com/)
 
 ---
 
