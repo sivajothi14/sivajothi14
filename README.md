@@ -7,7 +7,7 @@
 * 🔭 Currently focusing on **DSA with Java** and **core software development skills**
 * 🌱 Learning **Java, Problem Solving, DBMS, OS, CN** and exploring **real‑world projects**
 * 👩‍💻 Actively preparing for **on‑campus & off‑campus placements**
-* 🎯 Dream: To work at a **top IT company (Google / Amazon / similar)**
+* 🎯 Dream: To work at a **top IT company **
 * ✨ Fun fact: I believe consistency beats talent
 
 ---
